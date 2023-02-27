@@ -22,3 +22,13 @@
 
 > 숫자의 합 구하기
 * Do it! 알고리즘 코딩 테스트 001문제
+
+<br>
+
+> 조작된 평균 구하기
+* Do it! 알고리즘 코딩 테스트 002문제
+
+<br>
+
+> 뒤에 있는 큰 수 찾기
+* https://school.programmers.co.kr/learn/courses/30/lessons/154539
